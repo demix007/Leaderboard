@@ -1,0 +1,42 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "In this repo, I will set up a JavaScript project for the Leaderboard list app, using webpack and ES6. I will develop the app following a wireframe, I will consume the Leaderboard API using JavaScript async and await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "webpack watch --mode=development --config webpack.config.js",
+    "prod": "webpack --mode=production --config webpack.config.js",
+    "dev": "webpack --mode development",
+    "start": "webpack serve --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demix007/Leaderboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demix007/Leaderboard/issues"
+  },
+  "homepage": "https://github.com/demix007/Leaderboard#readme",
+  "dependencies": {
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
