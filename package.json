@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest --coverage",
     "build": "webpack watch --mode=development --config webpack.config.js",
+    "deploy": "npm run build && gh-pages -d dist",
     "prod": "webpack --mode=production --config webpack.config.js",
     "dev": "webpack --mode development",
     "start": "webpack serve --open"
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/demix007/Leaderboard#readme",
   "dependencies": {
     "css-loader": "^6.7.1",
+    "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.74.0",
