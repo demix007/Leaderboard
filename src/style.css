@@ -10,11 +10,18 @@ html {
   font-size: 10px;
 }
 
+body {
+  background-color: rgb(150, 203, 203);
+}
+
 header {
   margin: 0 0 1rem 0;
   padding: 1rem 1rem;
   font-size: 1.8rem;
-  font-weight: bolder;
+  width: fit-content;
+  background-color: rgb(234, 230, 230);
+  color: #000;
+  margin-inline-start: 2rem;
 }
 
 #content {
@@ -51,7 +58,8 @@ header {
 }
 
 .scores > li:nth-child(2n) {
-  background-color: rgb(156, 152, 152);
+  background-color: rgb(71, 71, 132);
+  color: white;
 }
 
 .add-score-section {
@@ -66,12 +74,19 @@ header {
 }
 
 .add-score-form h3 {
-  font-size: 2.4rem;
+  font-size: 3rem;
   margin-bottom: 1rem;
+  color: rgb(60, 60, 170);
+}
+
+.score-board h3 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: rgb(60, 60, 170);
 }
 
 .form-input {
-  color: #000;
+  color: rgb(60, 60, 170);
   padding: 0.56rem;
   border: 2px solid #000;
   margin-block-end: 3rem;
@@ -87,7 +102,7 @@ header {
   width: 100%;
   content: "";
   position: absolute;
-  background-color: black;
+  background-color: rgb(60, 60, 170);
   height: 100%;
   padding: 0.2rem;
   z-index: -1;
@@ -100,6 +115,11 @@ header {
   padding: 1rem;
   align-self: flex-end;
   font-weight: 600;
+}
+
+.refresh-btn {
+  font-weight: bold;
+  text-align: center;
 }
 
 .error-message,
