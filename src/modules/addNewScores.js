@@ -1,17 +1,17 @@
-const leaderBoard = document.getElementById('main-content');
+const app = document.getElementById('content');
 
-const addYourScore = `
+const addScore = `
 <section class="add-score-section">
-            <form action="#" class="add-score-form">
+            <form action="" class="add-score-form">
                 <h3>Add your score</h3>
-                <input type="text" placeholder="Your name" class="input-el"> 
-                <input type="text" placeholder="Your score" class="input-el"> 
-                <button type="button" class="btn submit-score-btn">Submit</button>
+                <input type="text" placeholder="Your name:" id="name-input" class="form-input"> 
+                <input type="number" placeholder="Your score:" id="score-input" class="form-input"> 
+                <button type="submit" class="btn submit-score-btn">Submit</button>
             </form>
         </section>`;
 
 const appendAddYourScore = () => {
-  leaderBoard.insertAdjacentHTML('beforeend', addYourScore);
+  app.insertAdjacentHTML('beforeend', addScore);
 };
 
 export default appendAddYourScore;
