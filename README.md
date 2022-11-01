@@ -4,14 +4,16 @@
 
 > In this project, I set up a JavaScript project for the Leaderboard list app, using webpack and ES6. I developed the app following a wireframe.
 
-![screenshot](./src/assets/Screenshot1.png)
-
 ## Built With
 
 - HTML
 - CSS
 - Javascript
 - Webpack
+
+## Live Demo    
+
+[Live Site Demo](https://demix007.github.io/Awesome-Books-ES6/)
 
 ## Getting Started
 
