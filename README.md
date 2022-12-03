@@ -115,6 +115,10 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 - **[Displays a board of scores]**
 - **[Adds new score(s) to the board]**
 - **[Removes score(s) from the board**
+# Live Demo <a name="live-demo"></a>
+- `href="https://demix007.github.io/Leaderboard/"`
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
