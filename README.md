@@ -48,7 +48,7 @@
 - **[Adds new score(s) to the board]**
 - **[Removes score(s) from the board**
 # Live Demo <a name="live-demo"></a>
-- Feel free to check the Live demo here: href="https://demix007.github.io/Leaderboard/"
+- Feel free to check the Live demo here: https://demix007.github.io/Leaderboard/
 
 
 
