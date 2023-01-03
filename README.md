@@ -44,9 +44,10 @@
 </details>
 
 # Key Features <a name="key-features"></a>
-- **[Displays a board of scores]**
-- **[Adds new score(s) to the board]**
-- **[Removes score(s) from the board**
+- **Displays a board of scores**
+- **Adds new score(s) to the board**
+- **Removes score(s) from the board**
+
 # Live Demo <a name="live-demo"></a>
 - Feel free to check the Live demo here: https://demix007.github.io/Leaderboard/
 
@@ -73,7 +74,7 @@
 # Author
 👤 **Ayodeji Abidemi**
 
-[GitHub](https://github.com/demix007) | [Twitter](https://twitter.com/dat_dope_demix) | [LinkedIn](https://www.linkedin.com/in/ayodejiabidemi)
+@demix007(https://github.com/demix007) | @ayodeji(https://twitter.com/dat_dope_demix) | @ayodeji(https://www.linkedin.com/in/ayodejiabidemi)
 
 ## 🤝 Contributing <a name="contributing"></a>
 - Contributions, issues, and feature requests are welcome!
@@ -84,17 +85,17 @@
 Give a ⭐️ if you like this project!
 
 ## 🙏 🙏 Acknowledgments <a name="acknowledgements"></a>
-- I would like to thank [@microverseinc](https://github.com/microverseinc) for the templates and insights 
+- I would like to thank @microverseinc(https://github.com/microverseinc) for the templates and insights 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 📝 License <a name="license"></a>
-> Copyright 2021, [Ayodeji Abidemi]
+> Copyright 2021, Ayodeji Abidemi
 
-> Permission is hereby granted, free of charge, to any person obtaining a copy of this [LEADERBOARD] and associated documentation files, to deal in the [LEADERBOARD] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [LEADERBOARD], and to permit persons to whom the [LEADERBOARD] is furnished to do so, subject to the following conditions:
+> Permission is hereby granted, free of charge, to any person obtaining a copy of this LEADERBOARD and associated documentation files, to deal in the LEADERBOARD without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the LEADERBOARD, and to permit persons to whom the LEADERBOARD is furnished to do so, subject to the following conditions:
 
-> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [LEADERBOARD].
+> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the LEADERBOARD.
 
-> THE [LEADERBOARD] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [LEADERBOARD] OR THE USE OR OTHER DEALINGS IN THE [LEADERBOARD].
+> THE LEADERBOARD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LEADERBOARD OR THE USE OR OTHER DEALINGS IN THE LEADERBOARD.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
