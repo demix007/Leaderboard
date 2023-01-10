@@ -37,7 +37,7 @@
 <details> 
 <summary>Live Link</summary>
   <ul>
-    <li><a href="https://demix007.github.io/Leaderboard/">Leaderboard</a></li>
+    <li><a href="https://demixleaderboard.netlify.app/">Leaderboard</a></li>
   </ul>
 </details>
 
