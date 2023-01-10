@@ -11,16 +11,18 @@ html {
 }
 
 body {
-  background-color: rgb(150, 203, 203);
+  background-image: url('https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 header {
   margin: 0 0 1rem 0;
-  padding: 1rem 1rem;
+  padding: 1rem 0;
   font-size: 1.8rem;
   width: fit-content;
-  background-color: rgb(234, 230, 230);
-  color: #000;
+  color: rgb(57, 65, 61);
   margin-inline-start: 2rem;
 }
 
@@ -33,6 +35,7 @@ header {
 .score-board {
   margin-inline-end: 1.6rem;
   flex-grow: 1;
+
 }
 
 .score-board div:first-child {
@@ -43,23 +46,32 @@ header {
 
 .score-wrap {
   margin: 1.6rem 0;
-  border: 2.5px solid rgb(27, 27, 27);
+  border: 2px solid rgb(27, 27, 27);
+  max-width: 80rem;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 4rem;
+  align-items: center;
+  background: black;
+  opacity: .5;
 }
 
 .scores {
   min-height: 35rem;
   list-style: none;
   font-weight: 500;
+  max-width:  fit-content;
 }
 
 .scores li {
   position: relative;
   padding: 0.8rem 1.3rem;
+  color: white;
 }
 
 .scores > li:nth-child(2n) {
-  background-color: rgb(71, 71, 132);
   color: white;
+  background-color: rgb(76, 120, 92);
 }
 
 .add-score-section {
@@ -76,17 +88,17 @@ header {
 .add-score-form h3 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: rgb(60, 60, 170);
+  color: rgb(76, 120, 92);
 }
 
 .score-board h3 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: rgb(60, 60, 170);
+  color: rgb(76, 120, 92);
 }
 
 .form-input {
-  color: rgb(60, 60, 170);
+  color: rgb(76, 120, 92);
   padding: 0.56rem;
   border: 2px solid #000;
   margin-block-end: 3rem;
@@ -102,7 +114,7 @@ header {
   width: 100%;
   content: "";
   position: absolute;
-  background-color: rgb(60, 60, 170);
+  background-color: rgb(76, 120, 92);
   height: 100%;
   padding: 0.2rem;
   z-index: -1;
@@ -111,7 +123,7 @@ header {
 }
 
 .submit-score-btn {
-  width: 25%;
+  min-width: 35%;
   padding: 1rem;
   align-self: flex-end;
   font-weight: 600;
@@ -132,7 +144,7 @@ header {
 }
 
 .error-message {
-  background-color: rgb(238, 27, 27);
+  background-color: rgb(198, 83, 83);
   text-align: center;
   height: 2.3rem;
   color: aliceblue;
