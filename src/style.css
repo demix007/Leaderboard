@@ -35,7 +35,6 @@ header {
 .score-board {
   margin-inline-end: 1.6rem;
   flex-grow: 1;
-
 }
 
 .score-board div:first-child {
@@ -53,14 +52,13 @@ header {
   padding: 2rem 4rem;
   align-items: center;
   background: black;
-  opacity: .5;
+  opacity: 0.5;
 }
 
 .scores {
   min-height: 35rem;
   list-style: none;
   font-weight: 500;
-  max-width:  fit-content;
 }
 
 .scores li {
