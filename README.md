@@ -49,6 +49,9 @@
 # Live Demo <a name="live-demo"></a>
 - Feel free to check the Live demo [here](https://demixleaderboard.netlify.app/)
 
+# App Screenshot
+
+![Screenshot (45)](https://user-images.githubusercontent.com/35904766/211460793-7e9c25b6-cd72-469b-8409-0218e97ce416.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
