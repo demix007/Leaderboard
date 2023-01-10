@@ -71,7 +71,7 @@
 - Have basic level knowledge about linters/Webpack
 - Have basic level knowledge about the working of website
 
-# Author
+## Author
 👤 **Ayodeji Abidemi**
 
 - GitHub: [@githubhandle](https://github.com/demix007)
