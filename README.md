@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![LEADERBOARD](https://img.shields.io/badge/Leaderboard-000000?style=for-the-badge&logo=Y'n'Tech&logoColor=white)
 
 # 📗 Table of Contents
 
