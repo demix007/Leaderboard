@@ -78,13 +78,13 @@
 ## 🤝 Contributing <a name="contributing"></a>
 - Contributions, issues, and feature requests are welcome!
 
-- Feel free to check the issues page. https://github.com/demix007/Leaderboard/issues   
+- Feel free to check the issues page. [Issues](https://github.com/demix007/Leaderboard/issues)  
 
 ## ⭐️ Show your support <a name="support"></a>
 Give a ⭐️ if you like this project!
 
 ## 🙏 🙏 Acknowledgments <a name="acknowledgements"></a>
-- I would like to thank  [Microverse](https://github.com/microverseinc) @microverseinc(https://github.com/microverseinc) for the templates and insights 
+- I would like to thank  [Microverse](https://github.com/microverseinc)for the templates and insights 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
