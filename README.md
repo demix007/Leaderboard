@@ -26,7 +26,7 @@
  > This project was built with; 
 - HTML 
 - CSS
-- Javascript
+- Javascript (ES6)
 - Webpack
 - REST API
 
