@@ -91,13 +91,10 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### 📝 License <a name="license"></a>
-> Copyright 2021, Ayodeji Abidemi
+## 📝 License
 
-> Permission is hereby granted, free of charge, to any person obtaining a copy of this LEADERBOARD and associated documentation files, to deal in the LEADERBOARD without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the LEADERBOARD, and to permit persons to whom the LEADERBOARD is furnished to do so, subject to the following conditions:
+This project is [MIT](./LICENSE.MD) licensed.
 
-> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the LEADERBOARD.
-
-> THE LEADERBOARD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LEADERBOARD OR THE USE OR OTHER DEALINGS IN THE LEADERBOARD.
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
