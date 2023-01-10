@@ -23,7 +23,6 @@
 **BOOKSTORE** is a website that displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service. using webpack and ES6. I developed the app following a wireframe.
 
 # 🛠 Built With <a name="built-with"></a>
- > This project was built with; 
 - HTML 
 - CSS
 - Javascript (ES6)
@@ -31,7 +30,6 @@
 - REST API
 
 # Tech Stack <a name="tech-stack"></a>
-> ### Technologies used 
 - GitHub 
 - Visual Studio Code 
 - GitBash
@@ -56,7 +54,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 💻 Getting Started <a name="getting-started"></a>
-> In order to use the project files, Kindly follow these steps:
 
 ## Steps
 - To clone the project select the desired directory in cmd and run: `git@github.com:demix007/Leaderboard.git`
