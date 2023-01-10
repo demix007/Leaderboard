@@ -74,7 +74,9 @@
 # Author
 👤 **Ayodeji Abidemi**
 
-@demix007(https://github.com/demix007) | @ayodeji(https://twitter.com/dat_dope_demix) | @ayodeji(https://www.linkedin.com/in/ayodejiabidemi)
+- GitHub: [@githubhandle](https://github.com/demix007)
+- Twitter: [@twitterhandle](https://twitter.com/dat_dope_demix)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayodejiabidemi/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 - Contributions, issues, and feature requests are welcome!
