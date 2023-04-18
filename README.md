@@ -74,9 +74,9 @@
 ## Author
 👤 **Ayodeji Abidemi**
 
-- GitHub: [@githubhandle](https://github.com/demix007)
-- Twitter: [@twitterhandle](https://twitter.com/dat_dope_demix)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayodejiabidemi/)
+- GitHub: [![demix007](https://img.shields.io/badge/-demix007-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/demix007)
+- Twitter: [![dat_dope_demix](https://img.shields.io/badge/-dat_dope_demix-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/dat_dope_demix)
+- LinkedIn: [![ayodeji-abidemi](https://img.shields.io/badge/-AyodejiAbidemi-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/ayodeji-abidemi)
 
 ## 🤝 Contributing <a name="contributing"></a>
 - Contributions, issues, and feature requests are welcome!
